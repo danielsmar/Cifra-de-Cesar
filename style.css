@@ -91,7 +91,7 @@ p {
 }
 
 .btn-style:disabled {
-  background-color: #FE424D;
+  background-color: rgb(129 129 129);
   cursor: no-drop;
 }
 
