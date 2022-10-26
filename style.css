@@ -6,14 +6,14 @@
 
 body {
   text-align: center;
-  background-color: #DAECF3;
+  background-color: #2F5196;
 }
 
 .roboto {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 1.4rem;
-  color: #022D41;
+  color: #FFFFF;
 }
 
 .d-flex {
@@ -43,7 +43,7 @@ body {
 .title-font {
   font-family:'Patua One', cursive;
   font-weight: 400;
-  color: #FE424D;
+  color: #FFFFF;
 }
 
 h1 {
