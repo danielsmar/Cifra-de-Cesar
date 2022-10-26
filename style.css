@@ -76,7 +76,7 @@ p {
   margin: 1%;
   padding: 1.5%;
   color: #fff;
-  background-color: #FE424D;
+  background-color: rgb(129 129 129);
   border: none;
   border-radius: 5px;
   cursor: pointer;
@@ -84,7 +84,7 @@ p {
 }
 
 .btn-style:hover, .btn-style:focus {
-  background-color: #1AA6B7;
+  background-color: #202020;
   color: #fff;
   outline: none;
   transition: 0.3s;
