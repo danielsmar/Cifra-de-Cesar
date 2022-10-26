@@ -75,7 +75,7 @@ p {
 .btn-style {
   margin: 1%;
   padding: 1.5%;
-  color: #D4686E;
+  color: #fff;
   background-color: #FE424D;
   border: none;
   border-radius: 5px;
@@ -91,7 +91,7 @@ p {
 }
 
 .btn-style:disabled {
-  background-color: rgb(145, 161, 163);
+  background-color: #FE424D;
   cursor: no-drop;
 }
 
